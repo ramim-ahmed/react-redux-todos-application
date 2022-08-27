@@ -2,4 +2,4 @@
 
 <hr />
 <div> </div>
-<img src='./src/assets/screenshot.png' />
+<img src='./src/assets/screenshot.PNG' />
